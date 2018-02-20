@@ -5,3 +5,12 @@
  License:      GNU General Public License v2 or later
  License URI:  http://www.gnu.org/licenses/gpl-2.0.html
 */
+
+.entry-box-post {
+   	margin: 0; 
+    box-shadow: none;
+	border-bottom: 1px solid #cccccc;
+}
+#primary-menu.menu li a:hover {
+    color: #8fa39c;
+}
