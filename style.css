@@ -11,10 +11,13 @@
     box-shadow: none;
 	border-bottom: 1px solid #cccccc;
 }
+nav#site-navigation {
+    background: #535A54;
+}
 #primary-menu.menu li a:hover {
     color: #8fa39c;
 }
 
 .fa:hover {
-    color: #b2ccc2;
+    color: #e5e5e5;
 }
